@@ -1,2 +1,18 @@
+# Python / Django
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+db.sqlite3
+
+# Virtual env
+.venv/
+
 # Env (não commitar)
 .env
+
+# IDE / OS
+.DS_Store
+.vscode/
+.idea/
