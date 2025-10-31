@@ -4,7 +4,9 @@ botocore==1.40.59
 Django==5.2.7
 django-cors-headers==4.9.0
 djangorestframework==3.16.1
+gunicorn==23.0.0
 jmespath==1.0.1
+packaging==25.0
 psycopg2-binary==2.9.11
 pylogalert==0.1.6.1
 python-dateutil==2.9.0.post0
