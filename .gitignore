@@ -10,7 +10,6 @@ venv/
 # Django
 *.log
 logs/
-staticfiles/
 
 # Configuracoes locais
 .env
