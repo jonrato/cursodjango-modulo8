@@ -10,7 +10,6 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/5.0/ref/settings/
 """
 
-import os
 from pathlib import Path
 from dotenv import load_dotenv
 load_dotenv()
@@ -26,8 +25,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-0$m+!@i5sww(y8i04j3_^i$emg70muswj6(vpl*u0^6(#o2+%1'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-
-
+DEBUG = True
 
 
 
@@ -58,16 +56,17 @@ MIDDLEWARE = [
     'corsheaders.middleware.CorsMiddleware'
 ]
 
-DEBUG = os.getenv("DEBUG") == "True"
-
-ALLOWED_HOSTS = os.getenv("ALLOWED_HOSTS").split(",")
-
-
-CORS_ALLOWED_ORIGINS = os.getenv("CORS_ALLOWED_ORIGINS").split(",")
+CORS_ALLOWED_ORIGINS = [
+    "http://localhost:5173",
+    "http://127.0.0.1:5173",
+]
 
 CORS_ALLOW_CREDENTIALS = True
 
-
+ALLOWED_HOSTS = [
+    "localhost",
+    "127.0.0.1"
+]
 
 ROOT_URLCONF = 'logemitter.urls'
 
