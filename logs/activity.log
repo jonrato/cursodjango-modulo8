@@ -1,0 +1,73 @@
+{"ts": "2025-10-26T05:40:36Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "PylogAlert iniciado com sucesso!!!"}
+{"ts": "2025-10-26T05:42:13Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "login_success", "user": "admin", "ip": "127.0.0.1", "status": "ok"}
+{"ts": "2025-10-26T05:42:42Z", "level": "WARNING", "service": "auth-api", "env": "dev", "event": "log_failed", "user": "admin", "ip": "127.0.0.1", "reason": "invalid_credentials"}
+{"ts": "2025-10-26T05:43:42Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "post_created", "user": "ana", "content": "Olá, estou aprendendo Django com logs ;)"}
+{"ts": "2025-10-26T05:44:19Z", "level": "EMERGENCY", "service": "auth-api", "env": "dev", "event": "unaunthorized_admin_access", "ip": "127.0.0.1", "endpoint": "/admin/"}
+{"ts": "2025-10-26T08:04:46Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "PylogAlert iniciado com sucesso!!!"}
+{"ts": "2025-10-26T08:04:47Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "PylogAlert iniciado com sucesso!!!"}
+{"ts": "2025-10-26T08:05:02Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "PylogAlert iniciado com sucesso!!!"}
+{"ts": "2025-10-27T05:19:33Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "PylogAlert iniciado com sucesso!!!"}
+{"ts": "2025-10-27T05:19:33Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "PylogAlert iniciado com sucesso!!!"}
+{"ts": "2025-10-30T04:27:07Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "PylogAlert iniciado com sucesso!!!"}
+{"ts": "2025-10-30T04:27:07Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "PylogAlert iniciado com sucesso!!!"}
+{"ts": "2025-10-30T04:27:21Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "PylogAlert iniciado com sucesso!!!"}
+{"ts": "2025-10-30T04:27:21Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "PylogAlert iniciado com sucesso!!!"}
+{"ts": "2025-10-30T04:53:36Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "PylogAlert iniciado com sucesso!!!"}
+{"ts": "2025-10-30T04:53:36Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "PylogAlert iniciado com sucesso!!!"}
+{"ts": "2025-10-30T05:00:55Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "PylogAlert iniciado com sucesso!!!"}
+{"ts": "2025-10-30T05:00:56Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "PylogAlert iniciado com sucesso!!!"}
+{"ts": "2025-10-30T05:41:36Z", "level": "WARNING", "service": "auth-api", "env": "dev", "event": "log_failed", "user": "fdakopfad", "ip": "127.0.0.1", "reason": "invalid_credentials"}
+{"ts": "2025-10-30T05:41:48Z", "level": "WARNING", "service": "auth-api", "env": "dev", "event": "log_failed", "user": "fdakopsswfad", "ip": "127.0.0.1", "reason": "invalid_credentials"}
+{"ts": "2025-10-30T05:42:05Z", "level": "EMERGENCY", "service": "auth-api", "env": "dev", "event": "unaunthorized_admin_access", "ip": "127.0.0.1", "endpoint": "/admin/"}
+{"ts": "2025-10-30T05:56:03Z", "level": "EMERGENCY", "service": "auth-api", "env": "dev", "event": "unaunthorized_admin_access", "ip": "127.0.0.1", "endpoint": "/admin/"}
+{"ts": "2025-10-30T05:56:09Z", "level": "WARNING", "service": "auth-api", "env": "dev", "event": "log_failed", "user": "fdakopsswfad", "ip": "127.0.0.1", "reason": "invalid_credentials"}
+{"ts": "2025-10-30T06:00:40Z", "level": "WARNING", "service": "auth-api", "env": "dev", "event": "log_failed", "user": "fdakopsswfad", "ip": "127.0.0.1", "reason": "invalid_credentials"}
+{"ts": "2025-10-30T06:00:41Z", "level": "WARNING", "service": "auth-api", "env": "dev", "event": "log_failed", "user": "fdakopsswfad", "ip": "127.0.0.1", "reason": "invalid_credentials"}
+{"ts": "2025-10-30T06:00:41Z", "level": "WARNING", "service": "auth-api", "env": "dev", "event": "log_failed", "user": "fdakopsswfad", "ip": "127.0.0.1", "reason": "invalid_credentials"}
+{"ts": "2025-10-30T06:00:45Z", "level": "EMERGENCY", "service": "auth-api", "env": "dev", "event": "unaunthorized_admin_access", "ip": "127.0.0.1", "endpoint": "/admin/"}
+{"ts": "2025-10-30T06:10:42Z", "level": "EMERGENCY", "service": "auth-api", "env": "dev", "event": "unaunthorized_admin_access", "ip": "127.0.0.1", "endpoint": "/admin/"}
+{"ts": "2025-10-30T06:10:46Z", "level": "EMERGENCY", "service": "auth-api", "env": "dev", "event": "unaunthorized_admin_access", "ip": "127.0.0.1", "endpoint": "/admin/"}
+{"ts": "2025-10-30T06:10:48Z", "level": "EMERGENCY", "service": "auth-api", "env": "dev", "event": "unaunthorized_admin_access", "ip": "127.0.0.1", "endpoint": "/admin/"}
+{"ts": "2025-10-30T06:10:52Z", "level": "WARNING", "service": "auth-api", "env": "dev", "event": "log_failed", "user": "fdakofdsfspsswfad", "ip": "127.0.0.1", "reason": "invalid_credentials"}
+{"ts": "2025-10-30T06:10:55Z", "level": "WARNING", "service": "auth-api", "env": "dev", "event": "log_failed", "user": "fdakofddsfspsswfad", "ip": "127.0.0.1", "reason": "invalid_credentials"}
+{"ts": "2025-10-30T06:42:23Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "PylogAlert iniciado com sucesso!!!"}
+{"ts": "2025-10-30T06:42:56Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "PylogAlert iniciado com sucesso!!!"}
+{"ts": "2025-10-30T06:42:56Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "PylogAlert iniciado com sucesso!!!"}
+{"ts": "2025-10-30T06:44:07Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "PylogAlert iniciado com sucesso!!!"}
+{"ts": "2025-10-30T06:44:09Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "PylogAlert iniciado com sucesso!!!"}
+{"ts": "2025-10-30T06:44:09Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "PylogAlert iniciado com sucesso!!!"}
+{"ts": "2025-10-30T06:45:08Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "PylogAlert iniciado com sucesso!!!"}
+{"ts": "2025-10-30T06:45:09Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "PylogAlert iniciado com sucesso!!!"}
+{"ts": "2025-10-30T06:45:31Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "PylogAlert iniciado com sucesso!!!"}
+{"ts": "2025-10-30T06:45:31Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "PylogAlert iniciado com sucesso!!!"}
+{"ts": "2025-10-30T06:46:52Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "PylogAlert iniciado com sucesso!!!"}
+{"ts": "2025-10-30T06:49:40Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "PylogAlert iniciado com sucesso!!!"}
+{"ts": "2025-10-30T06:49:57Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "PylogAlert iniciado com sucesso!!!"}
+{"ts": "2025-10-30T06:49:57Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "PylogAlert iniciado com sucesso!!!"}
+{"ts": "2025-10-30T06:50:45Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "PylogAlert iniciado com sucesso!!!"}
+{"ts": "2025-10-30T06:50:45Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "PylogAlert iniciado com sucesso!!!"}
+{"ts": "2025-10-30T06:50:52Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "PylogAlert iniciado com sucesso!!!"}
+{"ts": "2025-10-30T06:50:52Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "PylogAlert iniciado com sucesso!!!"}
+{"ts": "2025-10-30T06:52:14Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "PylogAlert iniciado com sucesso!!!"}
+{"ts": "2025-10-30T06:52:16Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "PylogAlert iniciado com sucesso!!!"}
+{"ts": "2025-10-30T06:52:16Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "PylogAlert iniciado com sucesso!!!"}
+{"ts": "2025-10-30T06:52:47Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "PylogAlert iniciado com sucesso!!!"}
+{"ts": "2025-10-30T06:52:49Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "PylogAlert iniciado com sucesso!!!"}
+{"ts": "2025-10-30T06:52:50Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "PylogAlert iniciado com sucesso!!!"}
+{"ts": "2025-10-30T06:55:10Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "PylogAlert iniciado com sucesso!!!"}
+{"ts": "2025-10-30T06:55:11Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "PylogAlert iniciado com sucesso!!!"}
+{"ts": "2025-10-30T06:55:11Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "PylogAlert iniciado com sucesso!!!"}
+{"ts": "2025-10-30T06:55:54Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "PylogAlert iniciado com sucesso!!!"}
+{"ts": "2025-10-30T06:55:54Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "PylogAlert iniciado com sucesso!!!"}
+{"ts": "2025-10-30T06:59:21Z", "level": "WARNING", "service": "auth-api", "env": "dev", "event": "log_failed", "user": "fdakofddsfspsswfad", "ip": "127.0.0.1", "reason": "invalid_credentials"}
+{"ts": "2025-10-30T07:04:39Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "PylogAlert iniciado com sucesso!!!"}
+{"ts": "2025-10-30T07:04:40Z", "level": "INFO", "service": "auth-api", "env": "dev", "event": "PylogAlert iniciado com sucesso!!!"}
+{"ts": "2025-10-30T07:06:10Z", "level": "WARNING", "service": "auth-api", "env": "dev", "event": "log_failed", "user": "fdakofddsfspsswfad", "ip": "127.0.0.1", "reason": "invalid_credentials"}
+{"ts": "2025-10-30T07:06:11Z", "level": "WARNING", "service": "auth-api", "env": "dev", "event": "log_failed", "user": "fdakofddsfspsswfad", "ip": "127.0.0.1", "reason": "invalid_credentials"}
+{"ts": "2025-10-30T07:06:11Z", "level": "WARNING", "service": "auth-api", "env": "dev", "event": "log_failed", "user": "fdakofddsfspsswfad", "ip": "127.0.0.1", "reason": "invalid_credentials"}
+{"ts": "2025-10-30T07:06:12Z", "level": "WARNING", "service": "auth-api", "env": "dev", "event": "log_failed", "user": "fdakofddsfspsswfad", "ip": "127.0.0.1", "reason": "invalid_credentials"}
+{"ts": "2025-10-30T07:06:15Z", "level": "EMERGENCY", "service": "auth-api", "env": "dev", "event": "unaunthorized_admin_access", "ip": "127.0.0.1", "endpoint": "/admin/"}
+{"ts": "2025-10-30T07:06:16Z", "level": "EMERGENCY", "service": "auth-api", "env": "dev", "event": "unaunthorized_admin_access", "ip": "127.0.0.1", "endpoint": "/admin/"}
+{"ts": "2025-10-30T07:06:19Z", "level": "EMERGENCY", "service": "auth-api", "env": "dev", "event": "unaunthorized_admin_access", "ip": "127.0.0.1", "endpoint": "/admin/"}
+{"ts": "2025-10-30T07:06:21Z", "level": "EMERGENCY", "service": "auth-api", "env": "dev", "event": "unaunthorized_admin_access", "ip": "127.0.0.1", "endpoint": "/admin/"}
+{"ts": "2025-10-30T07:06:23Z", "level": "EMERGENCY", "service": "auth-api", "env": "dev", "event": "unaunthorized_admin_access", "ip": "127.0.0.1", "endpoint": "/admin/"}
